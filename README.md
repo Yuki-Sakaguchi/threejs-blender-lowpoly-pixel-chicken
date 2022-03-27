@@ -2,6 +2,9 @@
 YouTubeを参考にBlenderで作ったglbファイルをthree.jsで表示する
 テクスチャはドットの画像
 
+https://user-images.githubusercontent.com/16290220/160287434-d744b4df-846e-4900-a9ee-c1cba93aeb13.mov
+
+
 ## demo
 https://yuki-sakaguchi.github.io/threejs-blender-lowpoly-pixel-chicken/dist/
 
