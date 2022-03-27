@@ -12,6 +12,8 @@ https://yuki-sakaguchi.github.io/threejs-blender-lowpoly-pixel-chicken/dist/
 - 色も辺だったので renderer の設定も削除した
   - `renderer.setClearColor(0x000000, 0);`
   - `renderer.physicallyCorrectLights = true;`
+- 白く塗ったところを透明にする Shader を Blender で設定していたが、それが反映されない
+  - glTF, glb には Shader は反映されないということなのでちゃんと透明にするか、テクスチャ自体を透明にするかする必要があるみたい
 
 
 ## 参考
